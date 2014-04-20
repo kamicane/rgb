@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "converts all sorts of colors to rgb format.",
   "main": "index.js",
+  "bin": {
+    "rgb": "bin/rgb.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/kamicane/rgb"
