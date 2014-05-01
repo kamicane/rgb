@@ -2,9 +2,9 @@
   "name": "rgb",
   "version": "0.0.1",
   "description": "converts all sorts of colors to rgb format.",
-  "main": "index.js",
+  "main": "./index.js",
   "bin": {
-    "rgb": "bin/rgb.js"
+    "rgb": "./bin/rgb"
   },
   "repository": {
     "type": "git",
