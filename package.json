@@ -1,6 +1,6 @@
 {
   "name": "rgb",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "converts all sorts of colors to rgb format.",
   "main": "./index.js",
   "bin": {
